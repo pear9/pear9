@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anis Shrestha</h1>
-<h3 align="center">A passionate AI and Machine Learning enthusiast</h3>
+<h3 align="center">A passionate AI and Machine Learning enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pear9&label=Profile%20views&color=0e75b6&style=flat" alt="pear9" /> </p>
 
-- 🔭 I’m currently working on **ELECTROMYOGRAPHY SIGNALS TO CONTROL PROSTHETIC HANDS BASED ON DEEP LEARNING**
+- 🔭 I’m currently working on **Electromyography Signals To Control Prosthetic Hands**
 
 - 💬 Ask me about **django**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rosepear9f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rosepear9f" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pear9&show_icons=true&locale=en&layout=compact" alt="pear9" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pear9&show_icons=true&locale=en&layout=compact" alt="pear9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pear9&show_icons=true&locale=en" alt="pear9" /></p>
 
