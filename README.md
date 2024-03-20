@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pear9&label=Profile%20views&color=0e75b6&style=flat" alt="pear9" /> </p>
 
-- 🔭 I’m currently working on **Electromyography Signals To Control Prosthetic Hands**
+- 🔭 I’m worked on **Electromyography Signals To Control Prosthetic Hands**
 
 - 💬 Ask me about **django**
+- - 💬 Ask me about **.netframework,BLAZOR**
 
 - 📫 How to reach me **rosepear9@gmail.com**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pear9&show_icons=true&locale=en&layout=compact" alt="pear9" /></p>
