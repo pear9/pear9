@@ -6,7 +6,7 @@
 - 🔭 I’m worked on **Electromyography Signals To Control Prosthetic Hands**
 
 - 💬 Ask me about **django**
-- - 💬 Ask me about **.netframework,BLAZOR**
+- 💬 Ask me about **.netframework,BLAZOR**
 
 - 📫 How to reach me **rosepear9@gmail.com**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pear9&show_icons=true&locale=en&layout=compact" alt="pear9" /></p>
